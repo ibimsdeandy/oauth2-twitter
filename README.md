@@ -11,7 +11,6 @@ composer require smolblog/oauth2-twitter
 ```
 
 ## Usage
-
 Usage is the same as The League's OAuth client, using `\Smolblog\OAuth2\Client\Provider\Twitter` as the provider.
 
 ### Authorization Code Flow
